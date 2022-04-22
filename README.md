@@ -1,5 +1,9 @@
 # ROS2 OWO GStreamer UWU
 
+## install
+```bash
+sudo apt install ros-foxy-usb-cam 
+```
 ## Build 
 > default to /dev/video0, change it in /config/cam_param.yaml. Run colcon build again after changing to make sure it's loaded
 
